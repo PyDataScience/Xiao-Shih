@@ -1,0 +1,4236 @@
+client
+NIST
+Tunnel mode
+Sending rate
+Transmission opportunity
+接器網路
+IEEE 802.11i
+distributed hash table
+Simple Internet protocol
+Video server
+PTT
+傳送
+Open shortest path first routing
+plaintext
+Ethernet switch
+RTS
+jamming sequence
+Frequency division duplex
+tagging
+Short interframe spacing
+實體層
+Bandwidth-delay product
+臨界值
+business
+diagram
+passband
+集線器
+segments
+RFC 1058
+Dispersion
+design issues
+control protocols
+Plug-in
+distance vector multicast protocol
+Limited-contention protocol
+Multiprotocol router
+貼標籤
+Cellular base station
+comparison with TCP/IP
+extension
+DoS attack
+SHA
+Final delivery
+2500m
+UHF
+512位元
+Signal
+發送
+integrated services
+Client stub
+Promiscuous mode Ethernet
+Internet telephony
+CWindow
+V.32
+Mobile code security
+HDTV
+FTP
+mail submission
+路由器 R2
+Urgent data
+RFC 5280
+session layer
+milk
+TCP source
+persistent
+port 1
+自治系统
+proxy
+monoalphabetic substitution
+Traffic-aware routing
+ANSNET
+Wired equivalent privacy
+Java virtual machine
+指定時間內傳送訊息
+Error-detecting code
+實體之間
+Data Link
+分散式協調功能 DCF
+ASP
+latency propagation time
+port 80
+協調功能
+Public-key signature
+cannot transmit
+185公尺
+Protocol 6
+Transport
+inverse
+ALOHA
+Orthogonal frequency division multiple access
+1Spanning Tree
+Asynchronous transfer mode
+IP address
+Control law
+Dynamic Web page generation
+Secure pairing bluetooth
+Envelope
+POP3
+Internetworking
+chunk
+White space
+group management
+Pairing
+收發器
+standard
+PON
+Statistical time division multiplexing
+cipher feedback mode
+end office
+NID
+Wideband code division multiple access
+ADC
+cascading style sheets
+Adjacent router
+Nexthop Destination IP 128.96
+Future of TCP
+INDEX 927
+Distance Vector protocol
+Tier 1 network
+Common-channel signaling
+Design issues
+Member Set
+physical layer
+TLS
+Jitter control
+Server farm
+DHCP Server
+ieee 802.11 Frame format
+2108
+RFC 821
+網路線
+1024
+Priorities
+designated bridge
+Store-and-forward packet switching
+label
+hops
+Secure DNS
+CDMA
+P.26
+Directive
+DS From DS Addr1 Addr2
+Full-duplex link
+Continuous media
+Social network
+Carrier sense multiple access
+Receiver
+Virtual circuit
+549–550
+IP security
+bridge port
+Birthday attack
+Wine
+Draft standard
+bytes
+Premaster key
+Link
+802.3
+satellite
+Quoted-printable encoding
+Satellite
+vs. code
+Constellation diagram
+RFC 1700
+Cryptographic round
+SIP
+packet over SONET
+email
+SubnetMask
+ieee 802.11 MAC
+Stub
+method
+daemon
+Ethernet 乙太網路地址
+Optimality principle
+lan 1
+transmits
+Headend
+Triangle routing
+member
+Address
+address resolution gratuitous
+Rijndael
+Rivest Shamir Adleman
+Social issues
+therefore
+expedited
+銅線
+Token passing protocol
+終端器
+Interface
+這個橋
+第三層協議
+RTS 指定時間內傳
+Category 6 wiring
+Gateway GPRS support node
+ieee 802.11 Standards
+RFC 3376
+IEEE 802.11 physical
+RFC 1191
+stop-and-wait
+HLR
+Delay
+Cable modem termination system
+Relay
+Byte stuffing
+Front end
+255.255
+From DS Addr1 Addr2 Addr3
+Cut-through switching
+V.32 modem
+Congestion Control
+virtual private
+目的地成本
+Disruption-tolerant network
+Multipurpose internet mail extension
+Message digest
+Cipher
+廣播群播
+G.711 standard
+Vector protocol
+Direct sequence spread spectrum
+port D
+block
+bridge
+Physical layer
+Receiving window
+Berkeley
+分割
+Temporal masking
+RFC 822
+網絡
+NCP
+Replay attack
+10248
+Spectrum allocation
+scalable
+filtering
+dotted decimal notation
+based VLAN
+comparison with IEEE 802.11
+DIS
+Set-top box
+mask
+Javaserver page
+IS-IS
+Freshness of messages
+Cable
+other algoirhtms
+Fair use doctrine
+Handoff
+scheme
+provided to the transport layer
+Wireless security
+Rectilinear basis
+Network
+Portmapper
+assured
+有線
+Transport protocol
+second generation
+Traffic throttling
+social
+Channel
+Differentiated service
+based
+XHTML
+Certification path
+Fast network
+one node allowed transmit time
+SLIP
+Coordination
+Virtual-circuit network
+dormnet
+Sliding Window
+NAP
+VLAN MAC
+Simple Demultiplexer
+cumulative acknowledgement
+Encoding
+NRZI
+Tandem office
+網路互連
+Session key
+Advanced Mobile Phone System
+串流
+Interface message processor
+SCO
+flow control
+Class A network
+Performance issues in networks
+Signatures
+URN
+distance vector multicast
+Proxy ARP
+Bellman-Ford routing algorithm
+Differential cryptanalysis
+trunk link
+Connection-oriented service
+INDEX 913
+addresses
+TCM
+子集合
+2.5 km
+selective repeat
+slow start threshold
+Web browser
+框轉送
+latency
+Random early detection
+調變
+ieee 802.11 標準
+E3% 80%
+Parallel connection
+RTT 時間點
+Compression
+鏈結狀態協議 Link State
+Virtual LAN
+finger table
+Supergroup
+Prefix
+keystream reuse
+展示層
+傳播
+SNR
+encoded
+IKE
+Naming
+tracker
+Cryptographic key
+encapsulation
+vlan 3
+retransmission
+LAN 代理橋接器
+AVC
+NSA
+third-generation mobile phone
+compared to other devices
+PPP over ATM
+Gmail
+SMS
+Socket
+Keystream reuse attack
+RFC 5795
+Node
+Collision detection
+mobile web
+Radio access network
+speeding up
+SGSN
+Fourier series
+ISAKMP
+ARPANET
+Round
+Interoffice trunk
+RFC 2616
+UWB
+INDEX 915
+Dynamic routing
+有線傳輸
+Gigabit Ethernet
+Wikipedia
+Encryption
+MFJ
+IPv4
+Twisted pair
+同軸電纜
+ATM
+tcp Connection
+address resolution protocol proxy
+Microcell
+Domain
+延遲
+增長
+logical link control adaptation
+接器 root bridge
+Random access channel
+interior gateway
+V.90
+連續零
+dynamic host configuration
+Beauty contest
+Cross-correlation
+Bluetooth protocol stack
+Microwave transmission
+Path diversity
+100BASE
+Procedure
+當傳送端收到回覆
+signature block
+data
+Cable Internet
+Ingress filtering
+hard
+網路 switch
+Extended superframe
+simple Internet plus
+4B/5B
+SYN
+Table
+Load balancing
+switched network
+Home network
+Collision
+Packet encapsulation
+CSMA with collision avoidance
+Circuit Switch
+埠
+Adaptive frequency hopping
+Jitter
+DHCP server
+Auction
+subnet mask
+sub
+elementary
+link
+Secure naming
+Unicasting
+User
+wireless application
+Telephone system
+Public-key ring
+1-persistent
+retrospective
+radio layer
+TCP segment
+Overlay
+Community antenna television
+Block cipher
+RFC 1323
+Increase
+association
+Cintent delivery network
+主機封包紀錄 duraiton time
+192.4 16
+1.30
+Parity packet
+frame forwarded stations
+802.11 802.11
+TCP TCP
+Hot-potato routing
+Collision Window
+Needham-Schroeder authentication
+micro second
+ad hoc
+Ethernet 4B/5B
+AP1
+PSTN
+Congestion collapse
+Host
+round
+Near field communication
+Classful addressing
+LF
+stub
+SeqNumToAck 1
+Communication subnet
+Recovery
+證書
+Ethernet encoding
+Temporary key integrity protocol
+TPM
+layer 3
+Multiple access with collision avoidance
+Privacy service
+迴
+隨機後退
+Business application
+DOM
+辨識碼2
+circuit
+位址
+層
+集中式協調功能
+media
+Home agent
+linearly
+Filtering
+classful addressing
+Wavelength
+frequency
+932 INDEX
+Period
+Primitive
+ToDS
+PCS
+The PCF
+mobile telephones
+Poisoned cache
+Mobile Internet protocol
+碰撞過的
+Erasure channel
+8B/10B
+duplicate
+Skin
+Architecture and services
+Mu-law
+DSLAM
+Serving GPRS support node
+Caesar cipher
+utopia
+反射式攻擊
+8bytes
+Sensor network
+Advanced video coding
+mobile
+P-box
+Unshielded twisted pair
+server seq
+Middlebox
+Internet protocol
+SOCKS
+mac3
+Watermarking
+INDEX 907
+CTS Usage Fragmentation
+collision
+Data
+Vocal tract
+top-level domain
+Initial connection protocol
+RFC 1521
+RFC 3875
+Erasure
+Network standardization
+Joint photographic experts group
+Ethernet frame bursting
+Additive Increase
+Cyclic redundancy check
+Top-level domain
+8B/10B encoding
+token
+TDD
+ACK frame
+transport service
+Steganography
+接器3
+Onion routing
+Backpressure
+Multiprotocol label switching
+L3
+node sees
+carrier-grade
+Diffie-Hellman protocol
+neighbors
+BGP
+位址虛擬區域網路架構
+Very small aperture terminal
+路由器
+雙向
+tcp 傳送端
+membership
+Vampire tap
+Binary exponential backoff algorithm
+DIFS 時間
+強度
+Privacy
+ip Subnetting
+碰撞
+Speed of light
+VC
+ASK
+Open mail relay
+CCK
+vlan 1
+距離向量
+考試
+station 1
+Negotiation protocol
+拆裝
+Extensible stylesheet language transformation
+向量
+interface
+Vacation agent
+collision 發生衝撞
+Forwarding algorithm
+Certification authority
+CSMA with collision detection
+Dynamic frequency selection
+RAS
+carrier sense multiple access
+politics
+架構 Network Architecture
+transmission time
+reservation
+Disassociation
+主機 IPv4 主機之間屬連線
+store
+Scrambler
+網路連接性 Network Connectivity
+固定 IP
+Wireless LAN protocols
+multiplexing
+SDN
+Backoff
+denial of service
+Authoritative record
+距離向量協議 Distance Vector
+調變方式
+topology LAN
+Coordination Function PCF
+收發器電纜
+Distributed Coordination
+Timing wheel
+first
+Physical medium
+go-back-n
+MAC
+Label switching
+IEEE 802.1Q
+RFC 3501
+POP
+connection-oriented
+Structured P2P network
+乙太
+Frame header
+IP telephony
+過濾資料
+Choked peer
+高到
+procotol stack
+170–174
+Wiki
+H.225 standard
+訊框片段 RTS CTS
+Application layer
+Fair queueing
+MPLS
+Transport service user
+資料送到
+Datagram congestion control protocol
+Attack
+sees duplicate ACK
+SST
+The frame forwarded
+time division multiplexing
+ISO
+Client-server model
+Decibel
+triangle
+路由器路由器
+RTP
+回傳 ACK
+Function DCF
+Comparison of the OSI and TCP/IP
+threshold
+infinity
+IP subnet
+電力線
+Tail drop
+Foreign agent
+Network interface device
+Firewall
+routing protocol
+involves preventing senders overrunning capacity
+address resolution
+Helper application
+RFC 3390
+ESMTP
+序號2封包
+Packet train
+frame types
+routing table
+sending side sees duplicate ACK
+unshielded
+IPv5
+226–244
+Weighted fair queueing
+medium
+longest matching prefix
+hidden node
+layer 1
+RFC 3174
+sub band
+Audio
+mail server
+Web
+Virtual
+sifs
+real time streaming
+Code rate
+456
+Interexchange carrier
+VLAN 情況
+6over4
+Transponder
+紀錄 A port 2
+Connection management
+Logical link control
+NIC
+Demultiplexer
+網關
+local loop
+Timestamp
+Modem
+packet switched
+access grant
+General packet radio service
+傳輸
+管線
+Thanks
+LATA
+radio
+Java applet
+Sliding Window Protocol
+Internet protocol version 4
+Protocol hierarchy
+Crash recovery
+網架構
+Spot beam
+ACL
+Hard-decision decoding
+reference model
+Extension header
+RFC 5681
+Frequency hopping
+Protocol layering
+Contention system
+交換機
+6.18
+channel
+Monoalphabetic substitution cipher
+機率
+Forbidden region
+Cybersquatting
+tcp 傳送
+critique
+lan2
+網路
+designated
+Frequency division multiplexing
+local
+CD Collision
+802.3 Ethernet 標準
+dynamic pages
+Performance
+Access point
+Gateway
+錯開
+同層介面
+multihop
+Presentation
+Data link layer
+Performance measurements
+圈
+DIFS
+送 RTS
+lan 4
+Cache
+雙絞線
+混合
+pseudoheader
+Stream cipher mode
+号封包
+switch router port
+Parity bit
+802.11 訊
+最小長度
+Phase shift keying
+Internet standard
+教授
+TCP/IP
+acknowledgement
+Core network
+persistent connection
+故障
+SPE
+一對 IPv6 主機 IPv4 主機
+基礎
+local addresses
+port number
+HMAC
+Interdomain protocol
+bridge 封包
+When
+torrent
+100Base-T4
+timeout
+Congestion control
+version 5
+Maintenance
+Daemen
+Interior gateway protocol
+introduction
+token passing
+live streaming
+Antenna
+vlan 3ports
+link 貼標籤
+Push-to-talk system
+cable television
+MTU
+collision domain
+34.128
+INDEX 929
+close enough
+XML
+enterprise
+80%
+Chain of trust
+name server
+Big-endian computer
+jitter control
+AODV
+A F
+171.69
+AIMD
+Baud rate
+Network Connectivity
+傳輸媒介
+transmit period time specified
+Throughput
+802.3 Ethernet
+PCF
+ieee 802.11 MAC Architecture
+Line code
+封包網卡位址
+MPEG-1
+guard band
+發送 jam sequence
+header TCP
+Internet Protocol
+Mobile phone system
+序號
+relation to protocols
+928 INDEX
+Frames addressed
+IETF
+Guard time
+Collision-free protocol
+From DS 0
+L2CAP
+ACK
+Distribution system
+虛擬區域網路
+CAPTCHA
+delta
+Request-reply protocol
+Fixed wireless
+delay-tolerant
+Smart phone
+Control channel
+default gateway
+increase
+框間隔
+926 INDEX
+QAM
+network layer
+table
+Access Procedure
+AES
+block 掉
+偵測
+狀況
+Alternate mark inversion
+crawling
+平衡
+Integration service
+temporary key integrity
+度64
+回送
+Inetd
+Directory
+Photon
+step 2
+version 6 controversies
+路由協議
+集合
+trunk
+bridge root
+class C 網段
+Queueing theory
+Relation of protocols to services
+Transit service
+station1
+Redundancy
+成本
+RTS CTS
+queuing time
+rws SWS
+Ans 2Ans
+Network accelerator
+信號強度
+bit stuffing
+送出封包
+Timer management
+Local area network
+Acknowledgement clock
+Expedited forwarding
+Foundation
+1LAN
+Personal communications service
+decapsulation
+號的討論
+PCM
+Internetwork routing
+Mouse flow
+enough receiver interfere free transmit
+BPSK
+Preamble
+challenge-response
+multicasting
+Mail submission
+stream control transmission
+Public-key infrastructure
+路由協議 Routing protocols
+128.96 34.0
+Committee draft
+fragment
+VLAN1 A
+E5% 99%
+The frame forwarded stations
+128.96
+Transport protocols
+SX
+name space
+connection management
+Connection establishment
+MAC 協議
+BPDUs
+網路架構 Network Architecture
+throughput
+Open Systems Interconnection
+Header prediction
+編號
+51.2 微秒
+Berkeley socket
+hot-potato
+MIME types
+layer
+Bluetooth SIG
+superframe
+adaptor
+3GPP
+LFR
+A port
+user agent
+增補
+Procotol stack
+結成
+ARPA
+capacity
+持續時間
+IPv6 extension
+Mobile assisted handoff
+Client side on the Web
+tag
+domain name
+D found Filtering database
+40msec
+International Telecommunication Union
+小考
+Ethernet 10Base5乙太網路
+Switching element
+cypherpunk
+ActiveX control
+可靠
+Hamming distance
+propagation delay
+envelope
+Virtual LANs
+target host
+Network control protocol
+A-law
+telephone system
+廣播位址
+RFC 3517
+Algorithm
+乙太網
+2封包
+switching
+LAN
+Voice-grade line
+Swarm
+work factor
+Token management
+短路徑
+traffic-aware
+Authentication using a shared secret
+phase shift keying
+mobile IP
+代理橋接器
+slot time
+Response
+Plain old telephone service
+SCTP
+網路介面卡
+Packet scheduling
+收到肯定
+Window probe
+Third-generation mobile phone network
+binary countdown
+Voice signals
+methods
+Priorities 機制
+Packet fragmentation
+compared to bridge and switch
+Transport Protocols
+延遲一段亂數時間
+OFDM
+sawtooth
+protocol version 6
+Phishing
+Bandwidth
+Snail mail
+rws
+MOSPF
+Nagle’s algorithm
+Service primitive
+frame
+RFC 5246
+鏈結層
+Multiplicative Decrease AIMD
+VoIP
+comparison with datagram network
+多工
+標準裏頭採用收到 RTS
+Cipher modes
+close enough receiver interfere
+DB
+群播廣播
+Connection reuse
+Problem
+lan 2
+discrete multitone
+Reassociation
+Style sheet
+送端收到回覆
+位址空間 IPv4
+buffer
+Nexthop
+Substitution cipher
+Security by obscurity
+Attribute
+RPC
+node problem
+空間 IPv4
+Dedicated control channel
+RFC 1122
+E5%
+uses
+橋接器3
+half
+靠近
+Local central office
+random access
+Entry
+Point coordination function
+DATA
+tcp 連線
+建立連線 client
+Traffic analysis
+source
+Rijndael cipher
+Karn’s
+custody transfer
+path vector
+LLC
+error control
+Hypertext transfer protocol
+根橋接器
+174–175
+Mobile wireless
+更新 NAV
+high 信號
+802.11 Frame Format
+site local
+Fragmentation
+連結使用率
+integrated
+各層詳述
+bridge ID rpc
+Persistent cookie
+RPC 5
+Digital modulation
+Authenticode
+half-duplex
+NextHop
+140.118
+930 INDEX
+packet
+networks
+hub
+Digital signature
+Internet Research Task Force
+backoff
+OSPF
+BridgeX
+1-persistent CSMA
+layer 2
+中樞協調者
+3cid 3cid 3
+Body
+Port2
+Exponential Backoff
+window grows
+provisioning
+Universal serial bus
+Parameters
+互聯網路工作站
+sliding-window
+主人
+models
+home
+application level
+Trigram
+網路連結
+BB84 protocol
+timestamp option
+cellular
+CRC 16
+fragment1
+主機封包紀錄
+100Base
+100Base-FX
+MTSO
+Timeout
+Known plaintext attack
+bandwidth
+接器根橋接器
+IFS
+Intranet
+idle 狀態
+V.34
+虛擬區域網路 VLAN
+ATM adaptation layer 5
+Trailer
+RTS CTS frames
+可靠傳輸
+duration
+傳播時間
+session initiation
+IEEE 802.11
+Spanning tree
+Ethernet MAC 協議
+ciphertext-only
+Cryptology
+dotted decimal notation Internet
+exerciseEthernet
+IXP
+根橋
+Trusted platform module
+RFID
+mac address
+Early exit
+WAP
+represents interface router
+Mobile phone
+IMT-2000
+Adaptive tree walk protocol
+RFC 2018
+LFS
+Nonce
+以小換
+Error syndrome
+senders overrunning
+Interleaving
+P2P
+傳遞
+切割成
+Denial of service attack
+查詢
+Audio compression
+SWS
+The receiver
+10baseT
+Packet over SONET
+Anycast routing
+id 40
+Core-based tree
+Client
+implementation
+Data link layer switching
+frame3
+CMTS
+U-NII
+交換器
+RPC 0
+Protocol CSMA CD
+Node B
+子網路 Subnetting
+social issues
+Layers
+最長500公尺
+header data
+Packet
+Cookie
+Transport layer
+訊框轉送
+Point of presence
+link local
+標準
+conditional get
+Service level agreement
+nav
+訊框片段
+2500
+Broadcast network
+frame forwarded
+Internet Architecture Board
+ASN
+Challenge-response protocol
+Cost
+Explicit congestion notification
+long fat network
+接器故障
+Member
+mobile code
+Digital signature standard
+Constellation
+profile
+100Base-FX Ethernet
+INDEX 923
+Layer 裝置
+Test
+tc 15
+Increase Multiplicative Decrease AIMD
+133–134
+De facto standard
+final delivery
+Pretty good privacy
+RFC 2109
+CSMA/CA
+傳輸時間
+Bundle protocol
+class C
+Rate adaptation
+OUI
+封包紀錄 duraiton time 之內
+RFC 4960
+程序
+傳課程影片
+暴露
+grows
+Point Coordination
+非以原先發送順序
+無分級
+IP MAC table
+first-generation mobile phone
+Allocation
+Forwarding equivalence class
+Email security
+stop-and-wait protocol
+Webmail
+collision-free
+comparison with IEEE 802.16
+0100
+One-time pad
+Daemon
+Authentication using public keys
+Multiaccess network
+10Mbits
+dynamic
+802.3 標準
+network number
+Systematic code
+Content transformation
+Balanced signal
+RFC 4306
+Multiaccess channel
+CDN
+Realm
+router switch
+Persistence timer
+Enhanced data rates for GSM evolution
+一到目的地主人
+International Standards Organization
+VLANA
+header
+2016.10
+BPDU
+The bridge
+HSS
+packet size bandwidth
+MCI
+Apocalypse of the two elephants
+1-bit sliding window
+guard time
+Frequency hopping spread spectrum
+Stub network
+Acknowledgement
+common-channel
+Real-time audio
+媒介
+Mobile host
+Ethernet MAC
+這是簡化發生衝撞
+Point-to-point protocol
+RFC 3022
+IMAP
+RFID backscatter
+Port based VLAN
+對方工作站
+Document object model
+交換機網路
+frequency hopping
+world Wide Web
+Van Allen belt
+Backward learning bridge
+CDM
+onion
+905
+services
+close enough receiver
+Footprint
+Rate anomaly
+Passband
+avoid collision 發生衝撞最多
+compared to SIP
+response
+Complementary code keying
+Mirroring a Web site
+13141516
+server-side page generation
+DSL
+DTN
+停止傳送
+Tunneling
+symmetric-key
+Bridge 5
+框片段 RTS CTS
+domain resource record
+資料鏈結層
+port root
+Strowger gear
+flows
+Data link protocol
+unchoked peer
+SOAP
+Digital advanced mobile phone system
+Shortest path routing
+P-persistent CSMA
+Distance vector routing
+Increase Multiplicative Decrease
+Iterative query
+片段 ACK
+multiple access
+Multipath fading
+third-generation
+interplanetary
+基地
+seq 10
+registrar
+匯流
+Internet Architecture
+Kerckhoff’s principle
+LSP
+Network performance measurement
+IDEA
+橋接網路上
+框
+spanning tree
+負載
+A port 1
+Broadband
+ISATAP
+Code
+Spanning Tree
+IXC
+flooding
+稱之為
+Additive increase multiplicative decrease law
+RFC 2854
+tag 訊
+router
+Visitor location register
+private
+802.11 Frame format
+DCT
+nonadaptive
+這個橋接器
+close enough receiver interfere free
+Infrared transmission
+Token
+message
+位元組串流
+RFC 768
+包含
+State
+SeqNum
+Addr1
+Point-to-point network
+收到訊框
+Frame structure
+Metric units
+public switched telephone
+Bush
+G.dmt
+synchronous connection-oriented
+RTS node
+Torrent
+Ethernet PON
+cid 3
+簡單統一性
+Area border router
+802.11 MAC
+flag
+Internet control message protocol
+comparison with OSI
+compared to copper wire
+停止等待協議
+918 INDEX
+ISM
+service
+allowed transmit
+Prediction
+Codeword
+Chunk
+調者
+0介面
+分發
+Presentation layer
+metropolitan area
+迴圈
+封包時間
+端端通訊協議
+voice over IP
+ID
+tcp
+RNC
+傳送給
+protocol version 4
+gap
+關鍵因素
+Overprovisioning
+IP header TCP
+網路代理
+detects
+elementary protocols
+接口
+Protocols
+MIME
+地址
+遺失封包
+TPID
+Choke packet
+Applications
+IP 位址
+Home location register
+910 INDEX
+cordless
+介面卡
+Endpoint
+最長
+Bridge Y FDB
+ARP
+選題
+方法傳輸 IP 封包
+delay-tolerant network
+p-persistent
+Frame fragment
+微弱
+TA 習題
+Connection
+Frequency selection
+Text messaging
+abort
+Constraint length
+Admission control
+Bandwidth efficiency
+Class
+AIFS
+compared to H.323
+Network address translation
+Routers
+Hypertext
+Ethernet Addresses
+收到 BPDU
+下一個節點
+toll office
+Guided transmission media
+Ports
+congestion window
+RFC 2993
+Frequency
+MPEG
+Reference model
+channel allocation
+Qubit
+Sending window
+交換
+聽封包
+Internetwork
+World Wide Web
+PIFS
+RTT
+certification
+802.11 802.11 2.4 GHz
+滑動視窗協議
+Attenuation
+設備
+ciphertext
+Designated router
+Distributed Hash Table
+VAB
+static web pages
+cybersquatting
+SIM card
+Bridge ID
+signal
+MAC 訊
+Spam
+ieee 802.11 Distribution System
+140.114 44.2
+Content distribution
+CRL
+Half-duplex link
+Security
+之內傳送這是簡化發生
+Ciphertext-only attack
+Luminance
+Authentication
+lottery
+Enterprise network
+Uniform resource locator
+8.22
+Traffic policing
+Splitter
+congestion control
+Transmission control protocol
+NAT
+JVM
+HFC
+generation 2
+Synchronous transport signal-1
+Architectural overview
+Network neutrality
+pipe
+adaptive tree walk
+sensor
+停止封包傳送
+Shannon
+SeqNumToAck k k
+TKIP
+上層
+Simple mail transfer protocol
+Robin
+規避
+Session
+方法接收接口 IP 封包
+Duplicate acknowledgement
+Conditional GET
+CGI
+random backoff
+切割
+kbps
+Capacity
+Forwarding Table Router R1
+傳輸 IP 封包
+Secure simple pairing
+wine
+工作站
+MAC header
+reflection
+10-Gigabit Ethernet
+Mockapetris
+port z
+Autocorrelation
+Backscatter
+disassociation
+Nonadaptive algorithm
+binary exponential backoff
+Long-term evolution
+Peering
+滑動視
+use
+感測
+給上
+Coordination Function
+Media gateway
+Soft handoff
+Mobile telephone switching office
+Delayed acknowledgement
+Mutlimedia
+message format
+secure pairing
+QoS
+Wireless LAN
+Stream control transmission protocol
+速率
+网路
+Window scale
+Slotted ALOHA
+Best-effort service
+17message
+GSM
+Positive acknowledgement with retransmision
+PC
+AP3
+fast networks
+User datagram protocol
+leaky bucket
+MAC Protocol
+E-mail
+Nonpersistent Web cookie
+Fast retransmission
+prefix list
+Hub
+超級訊
+Link State protocol
+root bridge ID
+scanning
+Mobile telephone system
+DNSsec
+frame2
+tree 子集合
+Root name server
+設定 NAV
+WiFi protected access 2
+LAF LFR RWS
+virtual
+Digital Millennium Copyright Act
+IMTS
+Bit-map protocol
+wireless transmission
+序號 LFR 1封包
+PPPoA
+First-generation mobile phone network
+HF RFID
+Session routing
+cryptographic
+CongWin
+International data encryption algorithm
+progressive
+Ethernet performance
+Bluetooth
+端範圍
+Usage Fragmentation
+紀錄 A port
+simple mail transfer
+網路工作站
+RFC 2615
+器值
+Milk
+The maximum
+addressed
+设备
+version 6
+Dotted decimal notation
+Architecture
+hello
+window
+70123
+Reliable Byte Stream
+example protocols
+RFC 3003
+聽
+secure 853
+Ad hoc network
+Merkle
+Gray
+multiaccess
+endpoint
+packet size
+水平分割
+V.90 modem
+EPC
+竊
+Dynamic page
+埠 x
+Slow Start
+網路效能
+串接
+host
+Motion picture experts group
+Ethernet 乙太網路
+URL
+multicast
+H.264 standard
+period
+Carrier-grade Ethernet
+QoS traffic scheduling
+MSC
+Key distribution center
+LAN2
+JPEG standard
+SWS 值
+vacation agent
+video
+Asynchronous I/O
+Request header
+互聯
+Quantization noise
+port D port
+vector
+Kerberos
+differential
+Equal cost multipath
+common control
+sifs SIFS
+Ans
+Trunk
+Transfer Procedure
+目的地主人
+旗標
+dynamic filtering entry
+108
+Guard band
+網路拓墣
+cf
+Keystream
+vlan
+LEC
+broadcast
+RFC 4838
+EIFS
+協議
+Coaxial cable
+Bit stuffing
+birthday
+Network allocation vector
+Switch
+較長
+Circuit switching
+Transport service provider
+page
+root bridge
+Bipolar encoding
+Rivest Shamir Adleman algorithm
+security
+directly connected
+的橋接器
+history
+Data Link Layer
+tree walk
+S-box
+Delay-tolerant network
+Dialog control
+協定
+衝撞
+Quadrature amplitude modulation
+Access Link
+Request for comments
+Round Robin
+IMP
+S/MIME
+DIX Ethernet standard
+互聯網架構
+exponentially
+circuit switched
+度2500m
+Congestion avoidance
+Class B network
+videoconferencing
+Fletcher’s checksum
+2500公尺
+COST
+Free-space optics
+RFC 5322
+Collision Domain
+Fast recovery
+PKI
+封包最小
+Ethernet 64B/66B
+RFC 2410
+Fourier transform
+Jumbo frame
+MIME type
+MIMO
+SLA
+RFC 1663
+Andreessen
+subnet Internet
+群播
+repeaters
+Description Layers
+統計多工
+Loop
+802.11 標準裏頭採用收到
+兩個冒號
+datagram congestion control
+Ethernet 8B/10B
+Clipper chip
+duraiton time 之內傳送這是
+attack
+FDDI
+zone
+ISP network
+Distributed
+代理埠
+弱點
+空閒
+entry
+Base station controller
+RTS frame
+Distribution
+control involves preventing senders overrunning
+Communication medium
+Demilitarized zone
+傳輸速度
+基於埠號虛擬
+Magnetic media
+Sink tree
+ETH
+140.114
+Topologies
+T1 line
+網路界面
+Distribution service
+狀態協議 Link State protocol
+Registration/admission/status
+Common control channel
+T1 carrier
+Multicast routing
+協議規格
+IGMP
+Computer
+IEEE 802.11 標準裏頭採用
+Ethernet 訊框格式
+100BaseFX
+Star Topology
+Learning bridge
+Bridge 1
+實體防火
+1000Base-T
+Inverse multiplexing
+Ethernet MAC 協議 CSMA CD
+寬度
+Per hop behavior
+maximum transfer unit
+DPC
+detect collision
+中止
+store-and-forward
+RFC 3986
+communication satellites
+Communication satellite
+mac Port
+SYN cookie
+CIDR
+Multiplexing
+busy
+課程討論區
+Error detection
+Video compression
+Leecher
+transport
+殭
+Power-save mode
+Metafile
+Home subscriber server
+RRSet
+Power
+多個
+To DS From DS Addr1
+Cipher feedback mode
+Sprint
+傳送端
+collision detection
+slotted
+生成
+Jumbogram
+congestion
+Channel allocation
+Virtual circuit network
+IP addresses
+DVMR
+Care-of address
+first-generation
+64bits
+Server stub
+Wait
+協議 Distance Vector protocol
+SeqNumToAck k
+MAC protocol
+content-delivery network
+相距
+4.19 4.20
+WiMAX
+A bridge
+400Kbps
+poisoned
+IP 可靠
+Class-based routing
+Wide area network
+Error control
+稱
+Ad hoc on-demand distance vector
+用戶端
+Token ring
+gratuitous
+Local number portability
+Wireless issues
+IP header
+主機之間屬連線雙向封包
+Markup language
+search
+substitution
+Upstream proxy
+Translation 機制
+Email reader
+Copyright
+100Base-T4 Ethernet
+64bytes
+IP 層
+interfere
+bridge3 bridge4
+IPsec
+simple mail transfer protocol
+Post office protocol
+CCITT
+網路設備
+Bridge2
+Subnet
+延遲 x 頻寬
+Modified final judgment
+Local access and transport area
+reverse lookup
+鏈結狀態
+橋接器
+R3
+Product cipher
+message headers
+Orthogonal frequency division multiplexing
+Harmonic
+Generator polynomial
+National Institute of Standards and Technology
+router 斷線
+nodes
+Fragment
+網段
+Seeder
+connection
+伺服器
+最多只能節點傳送訊號
+bridge root bridge
+leecher
+network broadcast
+Third Generation Partnership Project
+passive optical
+Field
+connection reuse
+Load shedding
+鏈路
+Streaming audio and video
+ieee 802.11
+Binary countdown protocol
+Connectionless service
+Internet group management protocol
+Waveform coding
+106106
+簡化發生衝撞
+請求
+Anomaly
+using key distribution center
+13.13
+initial
+Hidden terminal problem
+KDC
+addressing
+IPv4 網址
+路由
+Synchronous connection-oriented link
+Backbone area
+Passive RFID
+LFR RWS
+網路基礎
+Bridge2 P2
+Fourier analysis
+layer header
+906 INDEX
+兩端
+Function
+Hub 集線器
+Finger table
+Resource
+Layer
+70
+接收接口 IP 封包
+介面
+MAHO
+End-to-end argument
+RFC 3194
+USB
+spanning
+協議 Link State protocol
+Week 2
+RFC 3344
+Each bit
+one-time pad
+cid 2
+network
+Thanks TA
+Zone
+長
+Packet filter
+Protocol 2
+Detection
+BitTorrent
+In-band signaling
+Unchoked peer
+Needham-Schroeder
+長度
+one node allowed transmit
+represents
+Spanning tree poem
+Poisson model
+IP television
+Mu law
+E-commerce
+forwarding
+provided by transport layer
+Directed acyclic graph
+VLAN unaware
+專屬
+LAN2 D
+Minislot
+橋
+MANET
+IPv4 位址
+指定時間內
+2.17
+號碼
+FDD
+Utopia protocol
+TCG
+ICANN
+Assured forwarding
+100base
+class
+AMPS
+Common gateway interface
+2a
+Message transfer agent
+CSMA CA protocol
+路由器 R1
+肯定
+信號1
+FX
+Transport service primitive
+Border gateway protocol
+Signing
+M-commerce
+99%
+version 6 extension headers
+入侵
+idle
+point-to-point
+Passkey
+前綴
+delay
+ieee 802.11 媒體存取控制架構
+Hybrid fiber coax
+RFC 4614
+limited-contention
+IEEE 802.11g
+Process server
+Frequency shift keying
+44.2
+bucket brigade
+PING
+R1
+虛擬
+Multihop network
+link control
+file transfer
+10101
+RWS
+10KB8KB
+broadband wireless
+12頁80Kb10KB
+Collision domain
+競爭
+Cell phone
+78Dst
+Short message service
+Transmit power control
+transmission
+authentication protocols
+此訊框
+linear
+network control
+Two-army problem
+RFC 4409
+ASN.1
+Internet
+停止等候
+SampleRTT
+DS 0
+Data frame
+框片段
+轮询
+protocols
+一段 ethernet
+Resource record
+RFC
+PIM
+End end
+916 INDEX
+PPP
+轉換是屬狀態
+紀錄 duraiton time 之內傳送
+Internet Engineering Task Force
+HTTP
+控制傳送端傳送資
+Walled garden
+查出
+Tag switching
+MaxSeqNum
+相連 LAN
+網路互連簡介
+封裝方法
+point of presence
+Reverse path forwarding algorithm
+包含距離成本
+Half
+10Mbps
+hypertext transfer
+Plaintext
+幀
+WAN
+border gateway
+競爭週期
+Free-rider
+主機交換機
+Synchronous optical network
+MAC addresses
+Subnet Internet protocol
+端端
+連線
+firewall
+AAL5
+forms
+子網路
+database
+Session initiation protocol
+propagation time
+Paging channel
+Three-way handshake
+ad hoc network
+Standards
+徑樹
+錯發送
+Forward error correction
+DMCA takedown notice
+802.11 標準
+垃圾郵件
+無線網路
+probe
+Form
+soft
+會議層
+RFC 3748
+Application
+dimensional array
+Tree walk protocol
+light
+CF 邊界
+平衡負載器
+Three bears problem
+Freedom of speech
+TCP UDP
+crash
+Bursty traffic
+4.18
+FCFS
+Asynchronous connectionless link
+Transmission line
+配送
+網路效能 Network Performance
+tcp Connection Management cont
+IV
+Public switched telephone network
+UTP
+distances
+CA
+封鎖
+網路插孔
+stream cipher mode
+WDM
+子
+Cryptanalysis
+HDLC
+Node identifier
+Ping
+Secure HTTP
+Regional Authority
+回覆
+WCDMA
+broadcast address
+R2 4
+Carrier extension
+01234
+mobile host
+data link
+man-in-the-middle
+hR
+client-side page generation
+DNS
+Category 7 wiring
+Default-free zone
+Retrospective on Ethernet
+frequency shift keying
+封包 NATPT 轉換器
+網路黑洞
+default
+鏈結
+傳送訊框
+clock
+接器辨識碼
+class C network
+Connectivity
+度64byte
+De jure standard
+發生衝撞 Thanks
+attribute
+Hidden node
+Session layer
+Ultra-wideband
+衝撞最多只能節點傳送訊號
+Gen 2 RFID
+Internet Activities Board
+時間
+路由表
+同層
+拆裝方法
+nodes NAV
+RFC 3023
+ITU
+sequence number
+Flow control
+Baseband signal
+dcf
+RFC 2535
+public-key
+represents interface
+quantum
+Companding
+0123
+存取程序
+頻道
+資料流
+IAB
+NAV
+IPv6 主機
+ROHC
+active
+receiver
+端傳送資
+圈解析
+傳輸訊框到工作站
+window scale
+FIN
+Local exchange carrier
+Ciphertext
+Static Web page
+key exchange
+PORT
+interconnected
+csma
+GGSN
+URI
+Soliton
+Lossy audio compression
+propagation
+Frame
+傳送稱
+Dense wavelength division multiplexing
+Globalstar
+Time division duplex
+ADSL
+簡易反多
+designated port
+Gratuitous ARP
+Psychoacoustic audio encoding
+DMZ
+ieee 802.11 Frame Format
+拆成 fragment
+轉換器
+Bridge 2
+reverse path forwarding
+Mobile IP protocol
+reassociation
+beginning
+中繼器
+GPS
+網域
+Mail server
+fixed
+Spread spectrum
+INDEX 933
+速度
+電腦
+robbed-bit 155
+Input form
+Ethernet hub
+1persistent
+Base-T
+Video field
+Hz
+等待逾時
+P2
+MPEG-2
+EstimatedRTT
+hosts
+Carnivore
+wireless LANs
+網址
+Chrominance
+IPv6 主機 IPv4 主機之間屬
+耗電
+Local loop
+Wavelength division multiplexing
+LTE
+窗
+Cloud computing
+cid 3cid 3
+Datagram service
+priority
+Open shortest path first
+重組
+Server
+Reliable byte stream
+Fast
+negotiation
+LSR
+Link encryption
+碰撞發生
+RFC 2988
+Satellite footprint
+preamble
+Channel capacity
+International Mobile Telecommunication-2000
+網路路由器
+停止等待
+backbone
+乙太網路敘述正確
+Reassembly
+cost
+Intruder
+Protocol independent multicast
+IPX
+CW
+fast retransmission
+Sender
+Bridge X
+Wireless
+Slow
+intradomain
+Principal
+It close
+architectural overview
+transport mode
+Random Access
+IP 封包
+同軸電纜區段最長500公尺
+Data over cable service interface specification
+packets
+helper application
+Downstream proxy
+Lamarr
+socket
+封包發生碰撞
+NSFNET
+Time division multiplexing
+Service user
+layer 1設備
+訊框上記載時間
+1010
+Manchester encoding
+bytes 40msec
+tcp Congestion Control
+Encrypt encrypt encrypt mode
+Privacy amplification
+Response header
+Power law
+BPDU root bridge ID
+allowed transmit time order avoid
+interface router
+5.5
+sliding window protocols
+通道介
+感染
+收到兩個訊號
+Piconet
+Routing policy
+multiple access protocols
+Multihoming
+流量控制
+retransmits
+User agent
+Static channel allocation
+隱藏節點
+Institute of Electrical and Electronics Engineers
+PVID
+adaptor frame send
+trip propagation delay
+real-time transport
+Polynomial code
+Block code
+Spanning Tree Algorithm
+baseband
+RFC 2581
+Java applet security
+Robust header compression
+Protection against wrapped sequence numbers
+ieee 802.11 分散式系統
+SYN flood attack
+Self-similarity
+X400
+keepalive timer
+控制
+Broadcast storm
+Static routing
+Air interface
+terminator
+Chosen plaintext attack
+Perlman
+Cumulative acknowledgement
+Exposed terminal problem
+Frequency reuse
+45
+802.11 Standards
+SeqNumToAck
+id 50
+Message format
+DMCA
+Client DHCP
+realm
+Stop Wait Protocol
+window probe
+Wireless application protocol
+AMI
+rpc
+SONET
+中約13講義的12頁
+Fibre channel
+星狀拓墣
+ROOT
+Retransmission timeout
+anonymous
+距離
+Transmission media
+Addr2 Addr3 Addr4 11
+RTS CTS 主機
+Time slot
+路徑
+Hidden
+session
+1device
+時間一到目的地主人
+2.5
+Remote procedure call
+第三者
+Link State
+transmit power control
+Message header
+Rate regulation
+fragment1 nodes NAV
+之間
+Classless interdomain routing
+Recursive query
+924 INDEX
+MACA
+INDEX 931
+140.114 16
+Persistent and nonpersistent CSMA
+Computer network
+異常
+Broadband wireless
+RFC 793
+air
+Network Configuration Example
+Symmetric-key cryptography
+delay bandwidth
+DHT
+Podcast
+digital
+Relation of services to protocols
+SWS 1
+512bits
+Transcoding
+Distortion
+static
+回應
+cut-through
+interdomain
+一區域網路
+此訊框將會
+DS
+Datagram
+Sublayer
+Host design for fast networks
+只能節點傳送訊號
+Kepler’s Law
+communication
+Traffic shaping
+second-generation mobile phone
+Cable television
+DDoS attack
+籤訊框
+ip Routers
+Go-back-n protocol
+路
+CSMA CA
+certificate
+SACK
+設備稱
+Network hardware
+pulse code
+Pixel
+網頁
+layer 1device
+Nonpersistent CSMA
+Critique of OSI and TCP/IP
+協議 Routing
+IP
+erasure
+10Base2
+congestion collapse
+Protocol stack
+回應時間
+Automatic repeat request
+replay
+公尺 The maximum
+TXOP
+衝撞視窗
+封包切割
+MAC 協議 CSMA CD
+data link layer
+VLAN1
+DNS Name Space
+Personal area network
+A frame
+random
+PHP
+B IP
+port x
+beacon
+3.8
+Transmission
+傳輸訊框
+Non-return-to-zero inverted encoding
+transfer agent
+Trust anchor
+UDP port
+RFC 3119
+Ethernet jumbo frame
+Cable headend
+Measurements of network performance
+DIX
+PCF 傳輸時
+gateway default
+128.96 33.0
+Shannon limit
+Beacon
+Translation 機制來將
+佇列封包大小速度
+如同
+Switching
+訊框 It used
+閒置
+D-AMPS
+Cellular network
+V.92 modem
+code division multiplexing
+Infrared Data Association
+隔
+逾時
+Active server page
+Sectored antenna
+Issues Sliding Window Protocol
+實體網路
+一區域網路代理
+CongestionWindow 值
+queuing
+載波
+防火
+Internet over cable
+Synchronous digital hierarchy
+quadrature phase shift keying
+Real-time streaming protocol
+壞掉
+Real-time video
+MSS
+竊聽
+分散式協調功能
+open mail relay
+port based VLAN
+Flag byte
+Decrease AIMD
+subnet
+Bridge Z
+multiprotocol router
+網路連接性
+silly window syndrome
+PAWS
+等待時間
+Link Layer
+Stub area
+stream
+transceiver
+Backbone router
+queue
+MAN
+scatternet
+LFR SeqNumToAck
+站台
+發送 jam
+seeder
+Telephone
+Hop-by-hop backpressure
+Distributed System
+Scatternet
+forwarding table
+piconet
+tree
+traffic shaping
+Leaky bucket algorithm
+Dot com era
+同學您好
+Rivest
+Scalable network
+Digital subscriber line
+INDEX 925
+程式
+free transmit
+differentiated services
+Lossless audio compression
+分散式系統
+暴露節點
+值
+1.16
+urgent data
+resource reservation
+First-come first-served packet scheduling
+Security threats
+Encapsulation
+root
+broadcast control
+parallel connection
+Initialization vector
+媒體
+Function PCF
+Radio transmission
+Asynchronous Javascript and XML
+Distance Vector
+找 designated bridge
+gigabit
+Classic Ethernet
+Class C network
+10Base5Ethernet
+control
+網路代理橋接器
+過濾
+caching
+Load-shedding policy
+INDEX 917
+cid 1
+Bridges
+S1
+anycast
+255.255 255.128
+Translation
+Extended hypertext markup language
+Hotspot
+Link state routing
+stubs
+passive 74
+id 10
+unicast
+Method
+exposed node
+directory
+一個橋接器
+full-duplex
+Static page
+920 INDEX
+Path loss
+RPC 10
+IP datagram
+message access protocol
+2004
+Resolver
+Dial-up modem
+FromDS
+Exponential decay
+Keepalive timer
+Bucket
+最小
+乙太網路地址
+AJAX
+Hosting
+DA
+VLAN
+Wireless router
+DES
+Statistical multiplexing
+AH
+Public-key cryptography
+Bell
+Product code
+eigrp
+Wireless LAN protocol
+Cell
+Address resolution protocol proxy
+RFC 3550
+NAT box
+Label switched router
+地點
+Token bus
+倍數
+R port
+km
+10-gigabit
+Perceptual coding
+RED
+節點
+週期
+Radio network controller
+server
+fiber optics
+Wireless transmission
+multimedia
+interlaced
+Long fat network
+destination
+頻寬
+Key
+方法
+next hop
+Spanning tree bridge
+Ethernet 網路拓墣
+VSAT
+遺失
+Message transfer
+PAN
+Exposed
+Mailing list
+GMSC
+Multicast OSPF
+EuroDOCSIS
+CW 4
+Selective repeat protocol
+ESP
+Symbol
+建立連線
+LAF
+z 連接
+SYN flooding
+peer-to-peer
+GPRS
+Metropolitan area network
+收到 CTS
+成員
+Additive Increase Multiplicative Decrease AIMD
+blocking
+E1 line
+墣
+訊號
+Byte stream
+偵測 collision
+transmit
+Addr1 Addr2 Addr3 Addr4 1
+Fuzzball
+Half Repeater
+BPDU root bridge
+STS-1
+Improved mobile telephone system
+broadband
+Progressive video
+DAG
+Port
+WiFi Alliance
+initial connection
+偵錯
+系統
+倒扣
+Quadrature phase shift keying
+TCP
+Root
+Resilient packet ring
+B 傳給
+Address resolution protocol
+community antenna
+fragmentation
+interval
+slot
+MPEG standards
+video on demand
+網路 Subnetting
+CTS frame
+NSAP
+MP3
+RFID network
+CD
+Point
+10242
+Broadcasting
+Pulse code modulation
+Handover
+described
+CSNET
+礎
+Dijkstra’s algorithm
+EWMA
+loop allowed bridge LAN
+based Virtual LANs
+網路層
+RFC 5321
+攻擊
+FEC
+quality of service
+switch 所連結成
+路基礎
+一站
+HD
+root port
+HTTPS
+High-level data link control
+EDE
+Playback point
+Email
+Toll office
+距離成本
+R2
+preamble SFD
+DNS spoofing
+Hypertext markup language
+smart
+Ring
+100G
+Geostationary satellite
+Socket programming
+IPv6 位址
+運作
+Extended SMTP
+Mouse
+Contact
+Slow start
+segment
+Dijkstra
+JPEG
+500公尺
+Global system for mobile communication
+name
+Multiple input multiple output
+reach
+Distance vector multicast routing protocol
+procedure find
+Work factor
+transmits frame station
+Eternity service
+Region
+integration service
+Intradomain protocol
+LANs
+Code division multiplexing
+learning
+Probe
+碰撞區域
+CongestionWindow
+Autonegotiation
+Passive optical network
+TCP/IP layer
+802.11 Frame
+Profile
+交卷
+框間
+自治系統
+各層
+短路
+different
+FDM
+312
+Dynamic channel allocation
+容量
+端傳送資料量超過
+晶片
+媒體存取控制
+RFC 2883
+逾時器值
+dhcp
+request-reply
+message access
+依據
+Metcalfe
+modem
+TCP SYN
+Shared secret
+Private network
+傳送資料量超過接收端
+Nagle’s
+Streaming live media
+Multimode fiber
+概念
+Content delivery network
+ECMP
+Organizationally unique identifier
+Quality of service
+Circuit
+Emoticon
+Goodput
+Aspect ratio
+ActiveX
+Ethernet
+subnet number
+Class B
+Hertz
+问题
+Transport protocol data unit
+version 4
+RFC 1958
+maximum transmission unit
+Base64 encoding
+Low-water mark
+並將
+Call management
+layer protocol
+Tit-for-tat strategy
+度500
+Hierarchical routing
+Max-min fairness
+bridge ID 優先
+CRC
+運作原理
+封包
+Hyperlink
+filtering entry
+需求
+SeqNumtoAck
+Congestion
+Count-to-infinity problem
+PSK
+MD5
+maximum segment size
+Code signing
+Repeater
+physical
+bundle
+Arbitration interframe space
+Authentication protocol
+RSVP
+加密
+RTO
+PC A 送出
+Talkspurt
+最大化
+backscatter
+Message integrity check
+長度500
+convergence
+Segment
+duraiton
+TDM
+Message switching
+Video
+框格式
+訊框
+Logical link control adaptation protocol
+Low-earth orbit satellite
+傳送失敗
+傳給 server
+Boundary router
+dedicated control
+TSAP
+Advanced Research Projects Agency
+Classless
+examples
+multiprotocol label switching
+Internetworking network layer
+found Filtering database
+功能
+Ethernet port
+Pure ALOHA
+簡易
+pcf
+Connection Management cont
+Tracker
+DCF
+System
+cid 1The
+CTS 訊
+Sandbox
+V.34 modem
+mac
+Reservation protocol
+WPA
+streaming
+AT&T
+order avoid collision 發生衝撞
+Port based
+slow start
+IGP
+1port 2
+Intradomain routing
+Certificate revocation list
+鏈
+time 之內傳送這是簡化
+Extended interframe spacing
+coding
+counter mode
+生成樹
+application requirements
+收到 RTS
+前測
+Designated
+bridge ID
+bit-map
+Frame format
+frequency division multiplexing
+data delivery service
+散布給緊鄰
+Phone
+applications
+de jure
+pure
+statistical multiplexing
+Service
+TCP header
+101
+Blue
+untag
+封裝拆裝
+聽到
+Superframe 長度
+Classless Addressing
+H5
+Davies
+lan 3
+Baran
+architecture
+MPEG compression
+port
+Authentication using Kerberos
+Cryptographic certificate
+Wi Fi
+Robbed-bit signaling
+Serial line Internet protocol
+UHF RFID
+slide
+network layer routing
+electronic code book mode
+Step
+FIFO
+Supernet
+Cryptography
+現實
+xxx
+Destination IP
+Trellis-coded modulation
+規則
+集中式協調功能 PCF
+jamming
+Deep Web
+Linear cryptanalysis
+802.11
+Clark
+RST
+位址學習
+IP B IP Datagram
+Traceroute
+Frequency masking
+RFC 2440
+Fast segment processing
+Capacitive coupling
+promiscuous mode
+VLAN2
+remote procedure call
+Autoresponder
+distance vector multicast routing
+Internet Corporation for Assigned Names
+Subnetting
+access link
+FSK
+Gigabit-capable PON
+等待 DIFS
+Network software
+History of the Internet
+EAP
+timeslot
+Destination IP 128.96
+載波感測
+傳輸會停止
+AP
+OSI
+电话线
+無分級網址
+Stateful firewall
+Forwarding
+Device driver
+報告
+token bucket
+geostationary
+Red
+Content and Internet traffic
+Diffie-Hellman
+資料量超過接收端
+NATPT 轉換器
+使用率
+power-line
+WiMAX Forum
+傳輸層
+個用
+Trusted computing
+建立
+Ethernet carrier extension
+RFC 3775
+Non-return-to-zero modulation
+分散式
+Ethernet header
+超級訊框
+application
+CSMA CD 協議
+RPC 15
+Topology
+指令
+real-time transmission
+routing
+資料段
+twisted pairs
+JavaScript
+server side
+Name resolution
+international data encryption
+Universal mobile telecommunications system
+VLANC
+代理
+區段
+Multimedia
+IPv6 網址
+服務介面
+網絡交換
+是屬狀態
+round trip propagation delay
+EEE
+Synchronous payload envelope
+protocol stack
+offset
+IRTF
+Home location
+datagram
+Maxwell
+基於埠號虛擬區域網路
+Communication security
+Bundle
+CF
+Link control protocol
+ROOT PORT
+Fiber optics
+Macroblock
+Facebook
+Peer-to-peer network
+辨識碼1
+marshaling parameters
+微秒
+表格
+VLANs
+差別
+Mobile user
+tagged
+MPEG-4
+11111
+度64位元組
+Quantum cryptography
+訊框間
+鄰居
+Cipher block chaining mode
+Alias
+發布弱點
+0.5 km
+router R1
+RTS CTS 主機封包紀錄
+Label edge router
+key
+Scheduling
+肯定回覆
+IP MAC
+Backbone
+RFC 2326
+訊號來
+WIFI
+Distributed Coordination Function
+fragments
+H.323
+backoff time
+fast
+無限計數
+Bent-pipe transponder
+傳送訊框 RTS 指定
+3392
+擴張樹維護
+Simple object access protocol
+Standard
+INDEX 921
+extensible authentication
+SIPP
+Nonrepudiation
+Television
+線路
+content distribution
+Slot
+光纖
+Digitizing voice signals
+robust
+node
+Ethernet 4
+ECB
+adaptive routing
+IS
+負載器
+10Kbytes
+byte stream
+Network interface card
+frame 2
+自動設定
+Data center
+Unicast
+LAN 2
+擴張樹
+三路握手
+bridged LAN
+ECN
+CTS
+switch
+訊
+34.0
+填入
+17個訊息
+End office
+C network
+sender
+half repeater
+Traffic engineering
+cumulative
+id 30
+adaptive
+Public-key authentication using
+Fast Ethernet
+Interconnection
+1packet
+可靠傳輸服務
+Association
+authentication using
+請問助教
+Peer
+connection release
+D port
+Amplitude shift keying
+links
+Connection release
+encoding
+fast recovery
+競爭式
+訊框 RTS 指定時間
+數據
+bridge ID 大小
+GPON
+collide
+省略
+分析
+requirements
+untagged
+Physical
+RSA
+quoted-printable encoding
+標籤
+H.245 standard
+Disposition
+乙太網路
+Binary phase shift keying
+and Numbers
+320–327
+拆成
+port 過程
+k k
+dpc
+dial-up
+傳送封包
+交換網路
+Adaptive routing algorithm
+POTS
+DAC
+LEO
+hybrid
+互連網路
+908 INDEX
+compared to bridge and hub
+Chromatic dispersion
+Man-in-the-middle attack
+服務
+HTML
+Gatekeeper
+VLR
+shall
+accept
+Server side on the Web
+連線管理
+區域網路 VLAN
+MAC address
+ranging
+Spectrum auction
+connection establishment
+发送端
+初始化
+維護
+presentation layer
+外界
+TCP 標頭
+MPDU
+向量協議 Distance Vector protocol
+tcp Connection Management
+LAR
+Connection Management
+編碼
+LER
+switched
+Nyquist frequency
+Byte Stream
+DCCP
+VPN
+capability
+triple DES
+Diagonal basis
+接收端
+Server side Web page generation
+TTL
+time
+Mobile commerce
+Power-line network
+BX
+Data Link layer
+IP Address
+Texting
+classful
+命名
+個訊息
+Click fraud
+Internal router
+Name server
+lan
+延伸版本
+1111
+Simplex link
+frame3 456
+4B/5B encoding
+壅塞控制
+free
+64
+籤
+Silly window syndrome
+half repeaters
+Forwarding Table
+一段亂數時間
+byte stuffing
+Q.931 standard
+Broadcast routing
+Open Systems Interconnection. 41–45
+tunnel mode
+peer
+Cordless telephone
+傳送資料量超過
+Virtual private network
+概要
+Dijkstra’s
+Internet exchange point
+Destination port
+Proxy caching
+PAR
+International Standard
+傳輸會
+in-band
+DHCP
+0001
+STDM
+hybrid link
+Default gateway
+Toll connecting trunk
+Exponentially weighted moving average
+SDH
+package 大小
+橋接網路
+時間內
+DMT
+rts CTS
+人工設定
+B-frame
+Middleware
+Port 號碼
+工作站交換機
+Wearable computer
+Stack
+frame structure
+version 6 main header
+Out-of-band signaling
+8KB
+Source port
+SMTP
+transport layer
+64位元組
+2G
+World Wide Web Consortium
+W3C
+SIFS
+Internet protocol version 6
+root bridge ID rpc
+frame 節點
+所連結成
+Packet switching
+Secure/MIME
+Piggybacking
+contention free
+最佳
+Category 5 wiring
+Protocol 3
+Bit rate
+IPv6
+NRZ
+訊框到
+port based
+Synchronization
+medium-earth orbit
+橋接器根橋接器
+Router
+Group
+Cypherpunk remailer
+Header compression
+Digram
+IEEE 802.11b
+Java Virtual Machine
+OFDMA
+1289634
+VID
+Unstructured P2P network
+Combing
+Streaming stored media
+Barker sequence
+迴圈解析
+輪詢
+支援 IPv6
+WiFi
+acknowledgement clock
+tcp 標頭
+represents router
+duplicate ACK
+FDB
+Subscriber identity module
+Path MTU discovery
+Transfer agent
+Persistent connection
+High-water mark
+消息
+rts CTS Usage Fragmentation
+performance
+paging
+碰撞偵測
+Medium access control sublayer
+Whitening
+MGW
+原理
+peer interface
+RFC 1939
+APs
+physical loop
+GEO
+Bridge Switch
+TCP IP
+Video on demand
+Packet header
+Scheme
+multidestination
+IS-95
+Walsh code
+real-time
+RFC 3782
+R1 網路
+SSL
+RFC 4987
+polling
+local area
+Additive
+Digital video
+statistical
+classful IP
+遞送到
+prefix
+Tag
+Interlacing
+star
+stateful
+設定轉換是屬狀態
+package
+Triple DES
+等待
+immediate neighbors
+Private key ring
+IPv4 主機
+Dwell time
+client side
+Dynamic HTML
+Distributed denial of service attack
+forwards
+BSSID
+互連
+Client side dynamic Web page generation
+QPSK
+Superframe
+10Base5
+51.2
+distributed
+selective acknowledgement
+Dynamic host configuration protocol
+Real-time protocol
+Congestion window
+結層
+free-rider
+Flash crowd
+Gateway mobile switching center
+Bellman-Ford
+Streaming media
+PGP
+訊框格式
+xx
+flow
+最長距離
+路由器 R1 網路
+IPTV
+啟動
+802.11 2012
+資料訊
+target
+訊框間隔
+cable
+amplitude shift keying
+Backward learning algorithm
+Tier 1 ISP
+傳送訊
+Geostationary earth orbit
+RFC 2364
+Level
+Sliding window
+tit-for-tat strategy
+directive
+Sawtooth
+Cable modem
+shortest path
+Vocoder
+Applet
+The
+圖片
+Fiber node
+National Security Agency
+Advanced Encryption Standard
+檔案
+快速
+IEEE 802.11n
+pairing
+Base station
+trellis coded
+DstPort
+Beacon frame
+CDMA2000
+6106
+傳送幾個訊框
+MAC 位址虛擬區域網路
+line idle
+拆裝功能
+Anonymous remailer
+Header
+Antheil
+度
+teredo
+當傳送端
+原先發送順序
+協調功能 PCF
+10Mbps51.2
+streaming audio
+Bridge 4
+mailbox
+Authentication header
+routing algorithms
+7layer
+1.11
+Zipf’s law
+子网路
+Virus
+MAC sublayer protocol
+segmentation
+互聯網
+When sending side sees duplicate
+屬於埠 X
+Ethernet 標準
+封包最小長度
+相連 port
+ip 封包
+Point Coordination Function PCF
+群播廣播訊
+privacy service
+Reverse lookup
+Station keeping
+Quality of service routing
+Iridium
+Caesar
+10base2
+逾
+Custody transfer
+third generation
+Encrypt decrypt encrypt mode
+IEEE 802.16
+Terminal
+RFC 2965
+HF
+B port
+Secure sockets layer
+Lottery algorithm
+second-generation
+Framing
+device
+Reed-Solomon code
+Vector
+傳送封包 B
+protocol
+192.4
+網路會
+Network architecture
+Autonomous system
+Transposition cipher
+LDPC
+Spanning
+cid 1A
+Category 3 wiring
+duplicate acknowledgement
+International Standard IS-95
+週期性發送
+Wormhole routing
+主機
+Ethernet Topologies
+PLCP
+線性增加
+英文投影片
+Integrated services
+timer management
+目的地主機
+Internet Society
+Base-T Ethernet
+連線雙向封包 NATPT 轉換器
+wide area
+ip 子網路 Subnetting
+Distributed system
+路上傳送
+Mobile telephone
+Transport mode
+EPON
+Station
+Page
+IPv4 主機之間屬連線雙向
+Polynomial generator
+轉送
+RTCP
+2.10
+Data encryption standard
+Network protocol
+Retransmission timer
+元件
+通訊
+對象
+Aggregation
+TCP/IP. 46
+Distribution System
+Maximum segment size
+Contention
+Blaatand
+滑動
+學習範例
+Acknowledged datagram
+STA
+hierarchical
+Single-mode fiber
+gateway
+Global Positioning System
+922 INDEX
+光速
+收到訊
+端工作站
+VOD
+Ethernet Frame Format
+exposed
+Segment header
+匿名
+Queueing delay
+自由
+417A
+Analog-to-digital converter
+relation to services
+封裝
+B Port
+網
+Window
+Message
+Host A
+宽带
+tcp 壅塞控制
+Addressing
+網卡
+互聯網路
+persistence timer
+因素
+resilient packet
+變到
+admission control
+Poem
+node node
+low-earth orbit
+chosen plaintext
+轉換
+Intellectual property
+transposition
+Entity
+first generation
+future
+positive acknowledgement with retransmission
+Unlicensed national information infrastructure
+Twitter
+Threshold
+64B/66B encoding
+RTSP
+優先權
+壅塞
+Convolutional code
+短路徑樹
+通訊協議
+R1 5
+標頭
+well-known port
+E7%
+Maximum transfer unit
+ARQ
+Path maximum transmission unit discovery
+LCP
+Resource record set
+Extensible markup language
+Little-endian computer
+cid 1Spanning Tree
+frame station
+RFC 5050
+choked peer
+frames
+Structured stream transport
+MEO
+Notification
+Digital-to-analog converter
+Transport entity
+Codec
+Ans 1
+Distributed coordination function
+00
+SA
+station
+無線電信號
+p2p
+Checksum
+Request-reply service
+control message
+Channel-associated signaling
+主機 A
+bridge C
+resource record
+Internet service provider
+Tree
+優先
+asynchronous connectionless
+Multidestination routing
+ieee 802.11 訊框格式
+Reliable Transmission
+10BaseT
+Chord
+Satellite hub
+plug-in
+Smiley
+Interface 1
+csma CD Collision
+senders overrunning capacity
+Stop Wait
+網路內
+128.96 34.128
+Abstract Syntax Notation 1
+NATPT
+Protocol 4
+片段
+Third-party Web cookie
+Mailbox
+At one node allowed transmit
+切割封包
+Cascading style sheet
+P-frame
+0000
+Dynamic Web page
+Interface 0
+update
+行程
+MaxSeqNum SWS
+Code division multiple access
+WFQ
+DCF interframe spacing
+Maximum transmission unit path
+fragement
+sliding window
+Multicasting
+INDEX 909
+傳送端傳送資料量
+Resource reservation protocol
+Clear to send
+電信號
+Counter mode
+Botnet
+106
+Mobile switching center
+Security association
+network numbers
+ip 子網路
+Link layer
+Medium-earth orbit satellite
+Request to send
+State protocol
+MAC sublayer
+Network service access point
+Network Architecture
+transmit time order avoid collision
+MAC based
+Akamai
+Signal-to-noise ratio
+網卡位址
+Message disposition
+Application-level gateway
+174–179
+NFC
+編碼方法
+wormhole
+CTS 訊號
+規格
+Network overlay
+914 INDEX
+bits sec
+bus
+X.509
+RFC 3168
+A port 2
+authoritative record
+Protocol 5
+Soft-decision decoding
+33.0
+SeqNum SeqNumToAck
+Discrete multitone
+virtual circuit
+tcp 連線管理
+Bell Operating Company
+Network service provider
+79
+tandem office
+Fletcher’s
+Run-length encoding
+dcf 存取程序
+contention
+class-based
+segment header
+RFC 2459
+負載平衡
+Transport service access point
+RFC 4120
+10Base5Ethernet 10Base5乙太網路
+delay-tolerant networking
+前一個
+WEP
+收到肯定回覆
+ieee
+Retransmission
+spoofing
+de facto
+Protocol
+Registration
+File transfer protocol
+Registrar
+Flow specification
+Error correction
+Carrier sensing
+Digital subscriber line access multiplexer
+time order avoid collision 發生
+Exterior gateway protocol
+Telephone trunk
+dcf Access Procedure
+wireless LAN
+線性
+ISP
+problem
+delayed acknowledgement
+Switched Ethernet
+Orthogonal sequence
+Hello BPDU
+BB84
+Addresses Learning
+BRIDGE
+Remailer
+Although
+500500500
+Threats
+Karn’s algorithm
+Ethernet 10Base5
+IP multicast
+Convergence
+Distributed Coordination Function DCF
+Remote login
+WiFi protected access
+Industrial
+Asymmetric digital subscriber line
+Hashed message authentication code
+NAT64
+9634
+Passband signal
+802.11 媒體存取控制架構
+Uniform resource name
+發生衝撞
+Ans 2
+Automatic power save delivery
+802.11 Distribution System
+padding
+tcp Header
+address
+High-definition television
+Root Bridge
+進程
+Modulation
+MAC table
+hello BPDUs
+Rules
+CTS frames
+Clock recovery
+collisions
+longer
+ip 位址
+裏頭採用收到 RTS CTS
+FttH
+blocking port
+Direct acyclic graph
+Signaling
+DWDM
+Confidentiality
+Chip sequence
+personal area
+Frame Format
+sequence
+DVMRP
+RPR
+Stop-and-wait protocol
+news
+位址空間
+Buffering
+dpc 5
+ip 路由器
+cid 3cid 3cid
+Longest matching prefix algorithm
+1Mbps
+Fiber to the home
+ACK 2
+RFC 3261
+Host Host
+Light transmission
+AS
+autonomous system
+meters
+黑洞
+發生碰撞
+Area
+Bucket brigade attack
+區域網路
+握手
+exterior gateway
+tc 5
+Signature block
+Advanced audio coding
+Instant messaging
+2.4 GHz
+MIC
+Routing
+Issues
+audio
+公尺
+RFC 3246
+First-in first-out packet scheduling
+信號
+ICMP
+Discovery
+接器代理
+詳述
+傳送 MAC 訊框
+偵測碰撞
+modulation
+掃描
+MAC port
+CubeSat
+INDEX 919
+RFC 4632
+三個回覆
+虛擬 IP
+tracking
+802.3 Ethernet Standards
+backward learning
+框到
+cid
+集中式協調
+網路編號
+Low-density parity check
+Multithreaded Web server
+sonet framing 老師
+Datagram network
+ieee 802.11 Frame
+IPV6
+10BaseT乙太網路
+v6
+資料訊框
+Error-correcting code
+structure
+Extensible authentication protocol
+Hamming code
+XSLT
+Marshaling parameters
+header 包含
+Real-time transport protocols
+Sliding window protocol
+UMTS
+封包遞送到
+OSI 7
+Acknowledgement frame
+Switch 3
+message transfer
+有線無線
+maximum
+紀錄
+17messages
+界面
+X.400 standard
+Desktop sharing
+Spanning Tree Maintenance
+原始
+自治系统 AS
+Multiple access protocol
+媒介忙碌
+電線
+LAN 代理
+快速重送
+bridge3
+Token bucket algorithm
+direct sequence
+IrDA
+籤訊
+name resolution
+Rijmen
+傳給 D
+程式 Applications
+SFD
+Web application
+bridge 壞掉
+BOC
+Spyware
+虛擬區域
+Routing algorithm
+912 INDEX
+link state
+Spoofing
+VLAN A
+IEEE 802.1X
+Browser
+The frame
+allowed
+Ranging
+swarm
+round robin
+B IP Datagram
+Basic bit-map method
+實體網路界面
+wireless
+接器
+Ubiquitous computing
+訊號範圍內
+Distance
+Resource sharing
+Mobile ad hoc network
+RFC 2597
+Interdomain routing
+link layer
+Cryptographic principles
+傳送給 A D
+64B/66B
+Encapsulating security payload
+APSD
+Bridge A
+UDP
+埠收到
+協調
+G.lite
+2ACK
+repeater
+Revocation certificate
+Symmetric-key signature
+JSP
+Quantization
+Multitone
+nonpersistent
+adaptive frequency hopping
+255.255 255.0
+資料
+擴充
+authentication
+Michelson-Morley experiment
+classless interdomain
+位元組
+PC A
+Linear code
+distribution service
+Radio frequency identification
+擴張樹演算法
+數據訊
+無線
+Uniform resource identifier
+Well-known port
+ethernet
+EDGE
+1.22
+domain
+Security principal
+RFC 3963
+DOCSIS
+Pipelining
+Predictive encoding
+internetworking
+Interplanetary Internet
+lan 5
+重送
+connections
+vlan 2
+Baseband transmission
+Decoding
+IEEE 802.11a
+Protocol 1
+cryptographic certificate
+A 交換機
+IEEE 802.16 physical
+IP Header
+Network design issues
+Network access point
+TPDU
+Ethernet MAC Protocol CSMA CD
+ARP 468–469
+WPA2
+RA
+tc 10
+IPv4 封包
+security by obscurity
+Post
+估計
+Gray code
+Network Performance
+Path
+Symbol rate
+site
+selective
+擴張
+存取
+DMAC
+防火牆
+Boardband
+框 RTS 指定時間內
+Flooding algorithm
+Real-time conferencing
+MP4
+Email header
+Ethernet 2
+retransmission timeout
+互連簡介
+Domain Name System
+收到 RTS CTS 主機封包
+CSS
+IEEE
+140.13 13.13
+Data delivery service
+application layer
+基地台
+Reliable
+225
+high
+loop
+Network layer
+BSC
+Exposed Node Problem
+LAG
+close
+相容
+Bridge 3
+vlan Tag
+Draft International Standard
+Passband transmission
+1234
+3ports
+1000Base-T Ethernet
+Certificate
+INDEX 911
+known plaintext
+MAC 訊框
+Fiber distributed data interface
+internetwork
+辨識碼
+Discrete cosine transformation
+DS Addr1 Addr2 Addr3 Addr4
+Digital audio
+Second-generation mobile phone network
+Key escrow
+Path vector protocol
+1518
+CFP
+vs. cable
+id 20
+connectionless
+Subnet mask
+Deficit round robin
+Frame bursting
+Rendezvous point
+Adaptation
+Bridge
+10Base5乙太網路
+之間屬連線雙向封包 NATPT
+Roberts
+CSMA
+cookies
+Proposed standard
+Bandwidth allocation
+CSMA/CD
+Telco
+router port
+Selective acknowledgement
+Reflection attack
+端
+轉送訊號
+classic
+node allowed transmit time order
+Voice over IP
+Broadcast control channel
+Mobile Web

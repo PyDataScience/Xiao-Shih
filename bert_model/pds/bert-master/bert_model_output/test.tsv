@@ -1,0 +1,2 @@
+Q1	Q1_id	Q2	Q2_id	is_deplicated
+!dot -Tpng tree.dot -o tree.png 的問題 老師好:  我在執行決策分類樹時，執行!dot -Tpng tree.dot -o tree.png跑出來的結果是:'dot' 不是內部或外部命令、可執行的程式或批次檔。不知道是什麼原因造成這樣，麻煩老師了。	0	dot command not found 在觀看課程影片的時候，dot轉換成png檔時發生問題，執行程式: !dot -Tpng tree.dot -o tree.png錯誤訊息: 'dot' 不是內部或外部命令、可執行的程式或批次檔。後來我去上網下載graphviz後，依然沒辦法解決。想請問有什麼方法可以下載和解決?PS: 電腦是使用windows 10	0	0
