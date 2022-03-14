@@ -1,6 +1,7 @@
 # Xiao-Shih
 
 This is the code repository for:
+
 H. Hsu and N. Huang, “Xiao-Shih: A Self-enriched Question Answering Bot With Machine Learning on Chinese-Based MOOCs,” <I>IEEE Trans. Learning Technologies</I>. (Under Review)
 
 ## Spreading Question Similarity (SQS)
