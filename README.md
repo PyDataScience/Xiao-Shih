@@ -1,7 +1,8 @@
 # Xiao-Shih
 
 This is the code repository for:
-H. H. Hsu and N. F. Huang, "Xiao-Shih: A Self-Enriched Question Answering Bot With Machine Learning on Chinese-Based MOOCs," in IEEE Transactions on Learning Technologies, vol. 15, no. 2, pp. 223-237, 1 April 2022.
+
+H. H. Hsu and N. F. Huang, "Xiao-Shih: A Self-Enriched Question Answering Bot With Machine Learning on Chinese-Based MOOCs," in <I>IEEE Transactions on Learning Technologies</I>, vol. 15, no. 2, pp. 223-237, 1 April 2022.
 
 ## Spreading Question Similarity (SQS)
 SQS algorithm was proposed to compute question similarities based on keyword networks. As the name suggests, this algorithm spreads the degree of relationship between the most relevant keywords by iterating the neighbors on keyword networks. Because of this, vectors will not only be generated with existing keywords but also existing keywords will find other relevant keywords and integrate their similarities into vectors.
